@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/587647293/amap_core_fluttify.iml" filepath="$PROJECT_DIR$/.idea/modules/587647293/amap_core_fluttify.iml" group="android/amap_core_fluttify" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1293253440/amap_map_fluttify.iml" filepath="$PROJECT_DIR$/.idea/modules/1293253440/amap_map_fluttify.iml" group="android/amap_map_fluttify" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1640007023/core_location_fluttify.iml" filepath="$PROJECT_DIR$/.idea/modules/1640007023/core_location_fluttify.iml" group="android/core_location_fluttify" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1911207195/foundation_fluttify.iml" filepath="$PROJECT_DIR$/.idea/modules/-1911207195/foundation_fluttify.iml" group="android/foundation_fluttify" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1230335714/shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-1230335714/shared_preferences.iml" group="android/shared_preferences" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2071393715/shared_preferences_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-2071393715/shared_preferences_macos.iml" group="android/shared_preferences_macos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/150740078/shared_preferences_web.iml" filepath="$PROJECT_DIR$/.idea/modules/150740078/shared_preferences_web.iml" group="android/shared_preferences_web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-623015894/url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-623015894/url_launcher.iml" group="android/url_launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-401258275/url_launcher_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-401258275/url_launcher_macos.iml" group="android/url_launcher_macos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-313912386/url_launcher_web.iml" filepath="$PROJECT_DIR$/.idea/modules/-313912386/url_launcher_web.iml" group="android/url_launcher_web" />
+    </modules>
+  </component>
+</project>

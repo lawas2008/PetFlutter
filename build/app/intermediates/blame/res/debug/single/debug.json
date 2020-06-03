@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "E:\\ASWorkspace\\pet_flutter\\pet\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\ASWorkspace\\pet_flutter\\pet\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\ASWorkspace\\pet_flutter\\pet\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\ASWorkspace\\pet_flutter\\pet\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\ASWorkspace\\pet_flutter\\pet\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\ASWorkspace\\pet_flutter\\pet\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\layout\\notification_action.xml"
+    }
+]

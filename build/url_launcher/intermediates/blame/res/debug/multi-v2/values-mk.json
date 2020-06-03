@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-mk\\values-mk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\ASWorkspace\\pet_flutter\\pet\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk\\values-mk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lawas\\.gradle\\caches\\transforms-2\\files-2.1\\9b2604af1d5ea4a8429c38636111462c\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

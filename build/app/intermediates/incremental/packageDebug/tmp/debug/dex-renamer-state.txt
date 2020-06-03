@@ -1,0 +1,4 @@
+#Fri May 29 17:00:33 CST 2020
+base.0=E\:\\ASWorkspace\\pet_flutter\\pet\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="E:/flutterSdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/amap_core_fluttify-0.8.0/android" />
+            <option value="E:/flutterSdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/amap_map_fluttify-0.22.2/android" />
+            <option value="E:/flutterSdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/core_location_fluttify-0.1.0-dev.1/android" />
+            <option value="E:/flutterSdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/foundation_fluttify-0.7.3/android" />
+            <option value="E:/flutterSdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.7+3/android" />
+            <option value="E:/flutterSdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_macos-0.0.1+9/android" />
+            <option value="E:/flutterSdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_web-0.1.2+7/android" />
+            <option value="E:/flutterSdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.4.10/android" />
+            <option value="E:/flutterSdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_macos-0.0.1+7/android" />
+            <option value="E:/flutterSdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-0.1.1+6/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

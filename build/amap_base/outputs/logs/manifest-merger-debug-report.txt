@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:1:1-37:12
+	package
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:2:3-30
+		INJECTED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml
+		INJECTED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:21:22-65
+application
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:23:5-36:19
+activity#com.amap.api.navi.AmapRouteActivity
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:25:9-29:80
+	android:screenOrientation
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:28:17-53
+	android:configChanges
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:29:17-78
+	android:theme
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:27:17-64
+	android:name
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:26:17-67
+activity#com.amap.api.maps.offlinemap.OfflineMapActivity
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:32:9-33:59
+	android:screenOrientation
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:33:19-55
+	android:name
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:32:19-81
+service#com.amap.api.location.APSService
+ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:35:9-67
+	android:name
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml:35:18-65
+uses-sdk
+INJECTED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml
+INJECTED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml
+		ADDED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml
+		INJECTED from E:\flutterSdk\flutter\.pub-cache\hosted\pub.flutter-io.cn\amap_base-0.3.5\android\src\main\AndroidManifest.xml

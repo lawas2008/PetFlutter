@@ -1,0 +1,6 @@
+# Referenced at E:\ASWorkspace\pet_flutter\pet\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:21
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at E:\ASWorkspace\pet_flutter\pet\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:26
+-keep class com.lawans.pet.MainActivity { <init>(); }
+# Referenced at E:\ASWorkspace\pet_flutter\pet\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:21
+-keep class io.flutter.app.FlutterApplication { <init>(); }
